@@ -1,4 +1,4 @@
-﻿# FirstPass â€” Employer-First Career Platform POC (Frontend)
+﻿FirstPass Employer-First Career Platform POC (Frontend)
 
 React (Vite) UI for **FirstPass**, a proof of concept where **employers reach out to candidates first** instead of waiting for job applications.
 
@@ -102,24 +102,6 @@ If unset, the app defaults to `/api` (same-origin), which is used when the UI is
 
 Alternatively, use the backend deployment that already serves the built UI from `/` (no separate frontend host required).
 
----
-
-## Project structure
-
-```
-â”œâ”€â”€ index.html
-â”œâ”€â”€ package.json
-â”œâ”€â”€ vite.config.js
-â”œâ”€â”€ .env.example
-â””â”€â”€ src/
-    â”œâ”€â”€ main.jsx       # React entry
-    â”œâ”€â”€ App.jsx        # Employer + Candidate views
-    â”œâ”€â”€ api.js         # API client
-    â””â”€â”€ index.css      # Styles
-```
-
-## Course / author
-Lauren A. Rivero â€” MMC 6950 Capstone Â· University of Florida Â· Assignment 1.2 POC
 
 ## Auto-deploy note
 
