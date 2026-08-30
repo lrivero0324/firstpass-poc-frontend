@@ -2,7 +2,7 @@
 
 React (Vite) UI for **FirstPass**, a proof of concept where **employers reach out to candidates first** instead of waiting for job applications.
 
-**Companion backend:** [mc6950-rivero-lauren-assignment1.2-backend](https://github.com/lrivero0324/mc6950-rivero-lauren-assignment1.2-backend)
+**Companion backend:** [fristpass-poc-backend](https://github.com/lrivero0324/firstpass-poc-backend)
 
 ---
 
