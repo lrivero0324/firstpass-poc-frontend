@@ -103,7 +103,4 @@ If unset, the app defaults to `/api` (same-origin), which is used when the UI is
 Alternatively, use the backend deployment that already serves the built UI from `/` (no separate frontend host required).
 
 
-## Auto-deploy note
-
-This repository is connected to Vercel for automatic deployments from the `main` branch.
 
