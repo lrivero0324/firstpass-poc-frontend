@@ -1,4 +1,4 @@
-﻿FirstPass Employer-First Career Platform POC (Frontend)
+﻿# FirstPass Employer-First Career Platform POC (Frontend)
 
 React (Vite) UI for **FirstPass**, a proof of concept where **employers reach out to candidates first** instead of waiting for job applications.
 
